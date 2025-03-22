@@ -21,17 +21,17 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    content: "(+1) 234 567 8901",
+    content: "(+1) 206 532 9386",
   },
   {
     icon: <FaEnvelope />,
     title: "Email",
-    content: "youremail@example.com",
+    content: "nguyentienmanh2003@example.com",
   },
   {
     icon: <FaMapMarkerAlt />,
     title: "Address",
-    content: "123 Main Street, Anytown, USA",
+    content: "1111 E UNION ST, Seattle, WA",
   },
 ];
 
@@ -52,9 +52,10 @@ const Contact = () => {
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
               <h3 className="text-4xl text-accent">Let's work together!</h3>
               <p className="text-white/60">
-                We are always looking for talented individuals to join our team.
-                If you are interested in working with us, please fill out the
-                form below and we will get back to you as soon as possible.
+                I am always looking for an equal working environment, striving
+                to develop together. If you are interested in me, please fill
+                out the form below and I will respond to you as soon as
+                possible.
               </p>
 
               {/* inputs */}
